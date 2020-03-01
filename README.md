@@ -11,14 +11,14 @@ V2Ray使用了新的自行研发的VMess协议，改正了SS一些缺点，使�
 
 3. 下载V2Ray客户端
     ### Windows: 
-    V2RayN: https://github.com/2dust/v2rayN/releases \\
-    V2RayW: https://github.com/Cenmrev/V2RayW/releases \\
-    V2RayS: https://github.com/Shinlor/V2RayS/releases \\
-    Clash: https://github.com/Fndroid/clash_for_windows_pkg/releases \\
+    V2RayN: https://github.com/2dust/v2rayN/releases  
+    V2RayW: https://github.com/Cenmrev/V2RayW/releases  
+    V2RayS: https://github.com/Shinlor/V2RayS/releases  
+    Clash: https://github.com/Fndroid/clash_for_windows_pkg/releases  
     Windows系统建议使用V2rayN
     ### Mac:
-    V2RayU: https://github.com/yanue/V2rayU/releases \\
-    V2RayX: https://github.com/Cenmrev/V2RayX/releases \\
-    ClashX: https://github.com/yichengchen/clashX/releases \\
+    V2RayU: https://github.com/yanue/V2rayU/releases  
+    V2RayX: https://github.com/Cenmrev/V2RayX/releases  
+    ClashX: https://github.com/yichengchen/clashX/releases  
     Mac OS X系统建议使用V2rayU
     
