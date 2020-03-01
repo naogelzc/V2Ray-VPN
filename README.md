@@ -5,4 +5,5 @@ V2Ray使用了新的自行研发的VMess协议，改正了SS一些缺点，使�
 
 ##1.前提条件
 
-需要租用一台VPS，准备好visa或者master信用卡。下载putty客户端 https://www.putty.org/
+1.需要租用一台境外VPS。
+2.下载putty客户端 https://www.putty.org/
