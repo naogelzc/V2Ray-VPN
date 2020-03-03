@@ -19,4 +19,11 @@
     V2RayX: https://github.com/Cenmrev/V2RayX/releases  
     ClashX: https://github.com/yichengchen/clashX/releases  
     Mac OS X系统建议使用V2rayU
+    ### Android:
+    V2RayNG: https://github.com/yanue/V2rayU/releases  
+    ### 暂无免费IOS端
     
+## 搭建V2Ray
+
+1. 安装wget
+
