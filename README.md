@@ -23,6 +23,9 @@
     V2RayNG: https://github.com/yanue/V2rayU/releases  
     ### 暂无免费IOS端
     
+## 使用putty连接
+
+
 ## 搭建V2Ray
 
 1. 安装wget  
