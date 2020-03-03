@@ -26,7 +26,7 @@
 ## 搭建V2Ray
 
 1. 安装wget  
-   `apt-get update && apt-get install wget`  
+   ubuntu为例 `apt-get update && apt-get install wget`  
 2. 下载安装V2Ray  
    `wget https://install.direct/go.sh`  
    `bash go.sh`  
