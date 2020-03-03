@@ -25,6 +25,6 @@
     
 ## 搭建V2Ray
 
-1. 安装wget
+1. 安装wget  
    `apt-get update && apt-get install wget `  
 
