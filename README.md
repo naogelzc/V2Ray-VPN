@@ -29,7 +29,7 @@
 3. 下载安装V2Ray  
    `wget https://install.direct/go.sh`  
    `bash go.sh`  
-4. 启动服务
+4. 启动服务  
    `systemctl start v2ray'  
 5. 配置文件  
    `/etc/v2ray/config.json`  
@@ -37,5 +37,21 @@
    重启：`systemctl restart v2ray`  
    停止：`systemctl stop v2ray`  
    开机自启：`systemctl enable v2ray`  
+6. 防火墙  
+   开放对应端口的防火墙
    
+## 配置客户端
+1. 添加VMess服务器  
+2. 填写服务端配置文件中对应的信息即可  
+3. 两种模式PAC和全局  
+    PAC：国内本地网络依然走本地路线，国外网站走代理路线
+    全局：不管国内国外，统一走代理路线
+    
+## Google TCP BBR加速器（可选）
+1. 下载  
+`wget --no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh`  
+2. 修改权限  
+`chmod +x bbr.sh`  
+3. 启动  
+`./bbr.sh`
 
