@@ -5,9 +5,7 @@
 
 1. 需要租用一台境外VPS。
 
-2. 下载putty客户端 https://www.putty.org/
-
-3. 下载V2Ray客户端
+2. 下载V2Ray客户端
     ### Windows: 
     V2RayN: https://github.com/2dust/v2rayN/releases  
     V2RayW: https://github.com/Cenmrev/V2RayW/releases  
@@ -22,16 +20,22 @@
     ### Android:
     V2RayNG: https://github.com/yanue/V2rayU/releases  
     ### 暂无免费IOS端
-    
-## 使用putty连接
-
 
 ## 搭建V2Ray
-
-1. 安装wget  
+1. 远程服务器  
+   我是用putty链接的
+2. 安装wget  
    ubuntu为例 `apt-get update && apt-get install wget`  
-2. 下载安装V2Ray  
+3. 下载安装V2Ray  
    `wget https://install.direct/go.sh`  
    `bash go.sh`  
-3. 
+4. 启动服务
+   `systemctl start v2ray'  
+5. 配置文件  
+   `/etc/v2ray/config.json`  
+   获取id，端口号(port)和alterId, 或者修改成自己设置的然后重启服务  
+   重启：`systemctl restart v2ray`  
+   停止：`systemctl stop v2ray`  
+   开机自启：`systemctl enable v2ray`  
+   
 
